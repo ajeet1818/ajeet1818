@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer | GenAI & Agentic AI <br>Building autonomous AI agents, LLM-based apps, and intelligent backend systems.<br>Skilled in Python, FastAPI, APIs, and prompt engineering.<br>Turning ideas into real-world AI solutions.....
+Backend| GenAI & Agentic AI <br>Building autonomous AI agents, LLM-based apps, and intelligent backend systems.<br>Skilled in Python, FastAPI, APIs, and prompt engineering.<br>Turning ideas into real-world AI solutions.....
 
 
 ## 🌐 Socials:
